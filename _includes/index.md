@@ -1,8 +1,10 @@
-Hi there! I'm a recent graduate of the [University of California, Berkeley](http://www.berkeley.edu), where I studied [Operations Research & Management Science](http://www.ieor.berkeley.edu). I currently work at the intersection of software and analytics as an engineer at [MoneyLion](http://www.moneylion.com). 
+Hi there! I'm the co-founder and CTO of [Didian](https://www.mydidian.com), a full stack real estate marketplace that connects agents to developers to sell pre-launch projects. We build software to make real estate transactions more transparent, delightful, and efficient for all parties involved. 
 
-I was born and raised in Kuala Lumpur, Malaysia, but moved to the US for college. I'm now based in New York City. 
+Prior to Didian, I was the first Product hire at [MoneyLion](https://www.moneylion.com), where I spent close to 4 years shipping various Credit products to millions of under-banked, middle-class Americans. 
 
-I'm a big fan of data visualization, new technologies, Crossfit, and Manchester United. 
+I was born and raised in Kuala Lumpur, Malaysia, but moved to the US for college. 
+
+I'm a big fan of data visualization 📊, the Golden State Warriors 🏀, Manchester United ⚽, swimming 🏊, and traveling ✈️.  
 
 
 
